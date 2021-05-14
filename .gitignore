@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Spark exercises
+case.csv
+dept.csv
+source.csv
+wrangle-lesson-api-review.ipynb
